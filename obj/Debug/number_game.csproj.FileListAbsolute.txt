@@ -1,0 +1,7 @@
+C:\Users\Asia\source\repos\number_game\bin\Debug\number_game.exe.config
+C:\Users\Asia\source\repos\number_game\bin\Debug\number_game.exe
+C:\Users\Asia\source\repos\number_game\bin\Debug\number_game.pdb
+C:\Users\Asia\source\repos\number_game\obj\Debug\number_game.csprojAssemblyReference.cache
+C:\Users\Asia\source\repos\number_game\obj\Debug\number_game.csproj.CoreCompileInputs.cache
+C:\Users\Asia\source\repos\number_game\obj\Debug\number_game.exe
+C:\Users\Asia\source\repos\number_game\obj\Debug\number_game.pdb
